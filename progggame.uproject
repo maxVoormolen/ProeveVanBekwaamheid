@@ -50,8 +50,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OculusVR",
-			"Enabled": false,
+			"Name": "OculusOpenXR",
+			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win32",
 				"Win64",
