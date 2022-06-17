@@ -9,3 +9,4 @@
 - [ ] Wayne Hofstra (Programmer)
 - [ ] Yanick Cochavi (Artist)
 #### A playable build of the game can be found [here](https://drive.google.com/file/d/18lirL445Ny3wNh5JTsSYXmzX8jeGJXMZ/view?usp=sharing).
+#### Perhaps you are interested in a [trailer](https://youtu.be/mVC6OKybLvM) of the game.
